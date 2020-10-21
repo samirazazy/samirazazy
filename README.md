@@ -52,11 +52,11 @@
 
 ### Quick Stats:
 
-<a href="https://github.com/BetaPundit">
+<a href="https://github.com/samirazazy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirazazy&theme=dark&hide=TCL" />
 </a>
 
-<a href="https://github.com/BetaPundit">
+<a href="https://github.com/samirazazy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samirazazy&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Aditya's github stats"/>
 </a>
 
