@@ -2,19 +2,19 @@
 
 ![](https://komarev.com/ghpvc/?username=samirazazy)
 
-<a href="https://twitter.com/samirazazy">
+<a target="_blank" href="https://twitter.com/samirazazy">
   <img align="left" alt="Azazy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/samirazazy">
+<a target="_blank" href="https://linkedin.com/in/samirazazy">
   <img align="left" alt="Azazy's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/samirazazy">
+<a target="_blank" href="https://github.com/samirazazy">
   <img align="left" alt="Azazy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/samirazazy">
+<a target="_blank" href="https://instagram.com/samirazazy">
   <img align="left" alt="Azazy's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/samiralazazy">
+<a target="_blank" href="https://www.facebook.com/samiralazazy">
   <img align="left" alt="Azazy Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -52,11 +52,11 @@
 
 ### Quick Stats:
 
-<a href="https://github.com/samirazazy">
+<a target="_blank" href="https://github.com/samirazazy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirazazy&theme=dark&hide=TCL" />
 </a>
 
-<a href="https://github.com/samirazazy">
+<a target="_blank" href="https://github.com/samirazazy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samirazazy&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Aditya's github stats"/>
 </a>
 
