@@ -28,8 +28,6 @@
 - 🤔 My favorite quote: `Keep it Simple Stupid!`
 - 💬 Ask me about Computer Engineering!
 - 📫 How to reach me: [email](mailto:samiralazazy@gmail.com), [LinkedIn](https://linkedin.com/in/samirazazy)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love cats
 
 [![Twitter: Samirazazy](https://img.shields.io/twitter/follow/Samirazazy?style=social)](https://twitter.com/samirazazy)
 [![Linkedin: Samir Azazy](https://img.shields.io/badge/-Samir_Azazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samirazazy)](https://www.linkedin.com/in/samirazazy)
