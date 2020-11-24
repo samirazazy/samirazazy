@@ -22,7 +22,7 @@
 <br/>
 
 
-//- 🔭 I’m currently working on [Sayegh1944](http://www.sayegh1944.com/)
+- 🔭 I’m currently working on [Sayegh1944](http://www.sayegh1944.com/)
 - 🌱 I’m forever a student of life
 - 👯 I’m looking to collaborate on new projects
 - 🤔 My favorite quote: `Keep it Simple Stupid!`
