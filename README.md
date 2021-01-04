@@ -1,4 +1,4 @@
-## Hi, I'm [Samir azazy](linkedin.com/in/samirazazy) 👋
+## Hi, I'm [Samir Azazy](https://www.linkedin.com/in/samirazazy/) 👋
 
 ![](https://komarev.com/ghpvc/?username=samirazazy)
 
@@ -22,8 +22,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Sayegh1944](http://www.sayegh1944.com/)
-- 🌱 I’m forever a student of life
+- 🔭 I’m currently working as Software Engineer.
+- 🌱 I’m forever a student of life.
 - 👯 I’m looking to collaborate on new projects
 - 🤔 My favorite quote: `Keep it Simple Stupid!`
 - 💬 Ask me about Computer Engineering!
