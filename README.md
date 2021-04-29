@@ -45,10 +45,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samirazazy&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Aditya's github stats"/>
 </a>
 
-<br>
-
 <div align="center">
+
 ### 🔰Show some 💙 by starring some of the repositories!
+
 </div>
 
 ## Connect with me
