@@ -1,10 +1,10 @@
-[website]: (https://samirazazy.github.io/simple-resume/)
-[twitter]: (https://twitter.com/samirazazy)
-[email]: (mailto:samiralazazy@gmail.com)
-[linkedin]: (https://linkedin.com/in/samirazazy)
-[github]: (https://github.com/samirazazy)
-[instagram]: (https://instagram.com/samirazazy)
-[facebook]: (https://www.facebook.com/samiralazazy)
+[website]: https://samirazazy.github.io/simple-resume/
+[twitter]: https://twitter.com/samirazazy
+[email]: mailto:samiralazazy@gmail.com
+[linkedin]: https://linkedin.com/in/samirazazy
+[github]: https://github.com/samirazazy
+[instagram]: https://instagram.com/samirazazy
+[facebook]: https://www.facebook.com/samiralazazy
 
 ## Hi, I'm [Samir Azazy](https://samirazazy.github.io/simple-resume/) 👋
 
@@ -34,6 +34,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
+<br>
 ### Quick Stats:
 
 <a href="https://github.com/samirazazy"   target="_blank" rel="noopener noreferrer">
@@ -44,6 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samirazazy&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Aditya's github stats"/>
 </a>
 
+<br>
 <div align="center">
 ### 🔰Show some 💙 by starring some of the repositories!
 </div>
