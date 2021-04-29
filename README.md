@@ -2,22 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=samirazazy)
 
-<a href="https://twitter.com/samirazazy"  target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Azazy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/samirazazy"  target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Azazy's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/samirazazy"  target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Azazy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/samirazazy"  target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Azazy's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/samiralazazy"  target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Azazy Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
 <br/>
 <br/>
 
@@ -64,3 +48,24 @@
 ### 🔰Show some 💙 by starring some of the repositories!
 
 </div>
+
+## Connect with me
+
+<a href="https://twitter.com/samirazazy"  target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Azazy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/samirazazy"  target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Azazy's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/samirazazy"  target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Azazy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/samirazazy"  target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Azazy's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/samiralazazy"  target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Azazy Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<br />
+
