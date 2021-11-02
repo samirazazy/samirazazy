@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=samirazazy)
 
-- 🔭 I’m currently working as Software Engineer.
+<!-- - 🔭 I’m currently working as Software Engineer. -->
 - 🌱 I’m forever a student of life.
 - 👯 I’m looking to collaborate on new projects
 - 🤔 My favorite quote: `Keep it Simple Stupid!`
