@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samir Azazy</h1>
-<h2 align="center">Flutter Developer 💎</h2>
+<h2 align="center">Software Engineer 💎</h2>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samirazazy&label=Profile%20views&color=004080&style=flat" alt="samirazazy" height="40" width="240" />
 	           <img src="https://img.shields.io/github/followers/samirazazy?label=Followers&color=800000&style=flat" alt="samirazazy" height="40" width="160" />
@@ -16,16 +16,10 @@
 [instagram]: https://instagram.com/samirazazy
 [facebook]: https://www.facebook.com/samiralazazy 
 
-- 🔭 I’m currently working as Software Engineer.
 - 🌱 I’m forever a student of life.
 - 👯 I’m looking to collaborate on new projects
 - 🤔 My favorite quote: `Keep it Simple Stupid!`
 - 💬 Ask me about Computer Engineering!
-
-[![Twitter: Samirazazy](https://img.shields.io/twitter/follow/Samirazazy?style=social)](https://twitter.com/samirazazy)
-[![Linkedin: Samir Azazy](https://img.shields.io/badge/-Samir_Azazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samirazazy)](https://www.linkedin.com/in/samirazazy)
-[![GitHub samirazazy](https://img.shields.io/github/followers/samirazazy?label=follow&style=social)](https://github.com/samirazazy)
-[![website](https://img.shields.io/badge/PortfolioWebsite-SamirAzazy-2648ff?style=flat-square&logo=google-chrome)](https://samirazazy.github.io/simple-resume/)
 
 ### Languages and Tools:
 
