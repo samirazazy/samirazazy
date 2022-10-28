@@ -6,7 +6,7 @@
 </p>
 <br>
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 [website]: https://samirazazy.github.io/simple-resume/
 [twitter]: https://twitter.com/samirazazy
@@ -21,7 +21,7 @@
 - 🤔 My favorite quote: `Keep it Simple Stupid!`
 - 💬 Ask me about Computer Engineering!
 
-### Languages and Tools:
+## Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -34,7 +34,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 <br/>
-### Quick Stats:
+
+## Quick Stats
 
 <a href="https://github.com/samirazazy"   target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirazazy&theme=dark&hide=TCL" />
