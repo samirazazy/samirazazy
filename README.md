@@ -14,18 +14,13 @@
 [linkedin]: https://linkedin.com/in/samirazazy
 [github]: https://github.com/samirazazy
 [instagram]: https://instagram.com/samirazazy
-[facebook]: https://www.facebook.com/samiralazazy
+[facebook]: https://www.facebook.com/samiralazazy 
 
-
-<!-- - 🔭 I’m currently working as Software Engineer. -->
+- 🔭 I’m currently working as Software Engineer.
 - 🌱 I’m forever a student of life.
 - 👯 I’m looking to collaborate on new projects
 - 🤔 My favorite quote: `Keep it Simple Stupid!`
 - 💬 Ask me about Computer Engineering!
-
-
-<br>
-
 
 [![Twitter: Samirazazy](https://img.shields.io/twitter/follow/Samirazazy?style=social)](https://twitter.com/samirazazy)
 [![Linkedin: Samir Azazy](https://img.shields.io/badge/-Samir_Azazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samirazazy)](https://www.linkedin.com/in/samirazazy)
@@ -54,20 +49,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samirazazy&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Aditya's github stats"/>
 </a>
 
-<div align="center">
-
-### 🔰Show some 💙 by starring some of the repositories!
-
-</div>
-
 ## 🏆 GitHub Profile Trophies
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirazazy&theme=algolia" alt="samirazazy" /></a> </p>
 
-
-
-
-<br>
+</br>
 
 ## 📩 Connect with me
 <p align="left">
@@ -78,3 +64,11 @@
 <a href="https://github.com/samirazazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="samirazazy" height="50" width="60" /></a>
 <a href="https://samirazazy.github.io/simple-resume/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="samirazazy" height="50" width="60" /></a>
 </p>
+
+</br>
+
+<div align="center">
+
+### 🔰Show some 💙 by starring some of the repositories!
+
+</div>
