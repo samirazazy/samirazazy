@@ -4,7 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samirazazy&label=Profile%20views&color=004080&style=flat" alt="samirazazy" height="40" width="240" />
 	           <img src="https://img.shields.io/github/followers/samirazazy?label=Followers&color=800000&style=flat" alt="samirazazy" height="40" width="160" />
 </p>
-<br>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
@@ -60,8 +59,6 @@
 <a href="https://github.com/samirazazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="samirazazy" height="50" width="60" /></a>
 <a href="https://samirazazy.github.io/simple-resume/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="samirazazy" height="50" width="60" /></a>
 </p>
-
-</br>
 
 <div align="center">
 
