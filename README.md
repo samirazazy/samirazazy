@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Samir Azazy</h1>
+<h2 align="center">Flutter Developer 💎</h2>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samirazazy&label=Profile%20views&color=004080&style=flat" alt="samirazazy" height="40" width="240" />
+	           <img src="https://img.shields.io/github/followers/samirazazy?label=Followers&color=800000&style=flat" alt="samirazazy" height="40" width="160" />
+</p>
+<br>
+
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+
 [website]: https://samirazazy.github.io/simple-resume/
 [twitter]: https://twitter.com/samirazazy
 [email]: mailto:samiralazazy@gmail.com
@@ -6,16 +16,16 @@
 [instagram]: https://instagram.com/samirazazy
 [facebook]: https://www.facebook.com/samiralazazy
 
-## Hi, I'm [Samir Azazy](https://samirazazy.github.io/simple-resume/) 👋
-
-![](https://komarev.com/ghpvc/?username=samirazazy)
 
 <!-- - 🔭 I’m currently working as Software Engineer. -->
 - 🌱 I’m forever a student of life.
 - 👯 I’m looking to collaborate on new projects
 - 🤔 My favorite quote: `Keep it Simple Stupid!`
 - 💬 Ask me about Computer Engineering!
-- 📫 How to reach me: [email], [LinkedIn]
+
+
+<br>
+
 
 [![Twitter: Samirazazy](https://img.shields.io/twitter/follow/Samirazazy?style=social)](https://twitter.com/samirazazy)
 [![Linkedin: Samir Azazy](https://img.shields.io/badge/-Samir_Azazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samirazazy)](https://www.linkedin.com/in/samirazazy)
@@ -50,13 +60,21 @@
 
 </div>
 
-## Connect with me
+## 🏆 GitHub Profile Trophies
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirazazy&theme=algolia" alt="samirazazy" /></a> </p>
 
-[<img align="left" alt="my website: jangoebel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="my LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="my Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="my Github channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="my Facebook channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="my Instagram channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+
+
+<br>
+
+## 📩 Connect with me
+<p align="left">
+<a href=" https://linkedin.com/in/samirazazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samirazazy" height="50" width="60" /></a>
+<a href="https://twitter.com/samirazazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samirazazy" height="50" width="60" /></a>
+<a href="https://fb.com/samiralazazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samirazazy" height="50" width="60" /></a>
+<a href="https://instagram.com/samirazazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samirazazy" height="50" width="60" /></a>
+<a href="https://github.com/samirazazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="samirazazy" height="50" width="60" /></a>
+<a href="https://samirazazy.github.io/simple-resume/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="samirazazy" height="50" width="60" /></a>
+</p>
